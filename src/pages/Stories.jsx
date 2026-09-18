@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { ArrowRight } from 'lucide-react';
-import { Img, Reveal, RevealLine } from '../lib/Motion.jsx';
+import { Img, Reveal, RevealLine } from '../lib/motion.jsx';
 import { PROJECTS } from '../components/projects.js';
 import { Closing } from './Home.jsx';
 

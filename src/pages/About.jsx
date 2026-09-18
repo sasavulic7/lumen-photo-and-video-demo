@@ -1,4 +1,4 @@
-import { Img, Reveal, RevealLine } from '../lib/Motion.jsx';
+import { Img, Reveal, RevealLine } from '../lib/motion.jsx';
 import { IMAGES } from '../data/images.js';
 import { Closing } from './Home.jsx';
 

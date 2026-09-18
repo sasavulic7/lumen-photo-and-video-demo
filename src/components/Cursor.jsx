@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { prefersReducedMotion } from '../lib/Motion.jsx';
+import { prefersReducedMotion } from '../lib/motion.jsx';
 
 /**
  * A single thin ring that trails the pointer and widens over anything

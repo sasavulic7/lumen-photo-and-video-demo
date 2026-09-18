@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { MapPin, Mail, Phone, Instagram, Check } from 'lucide-react';
-import { Img, Reveal, RevealLine } from '../lib/Motion.jsx';
+import { Img, Reveal, RevealLine } from '../lib/motion.jsx';
 import { IMAGES } from '../data/images.js';
 import { STUDIO } from '../data/Services.jsx';
 

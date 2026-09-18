@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, ArrowUpRight } from 'lucide-react';
 import { ROUTES, NAV_ITEMS, navigate } from '../lib/router.jsx';
-import { useScrollY } from '../lib/Motion.jsx';
+import { useScrollY } from '../lib/motion.jsx';
 import { STUDIO } from '../data/Services.jsx';
 
 export default function Navbar({ route }) {

@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ArrowRight, ArrowUpRight, Play } from 'lucide-react';
-import { Img, Reveal, RevealLine, useScrollY, prefersReducedMotion } from '../lib/Motion.jsx';
+import { Img, Reveal, RevealLine, useScrollY, prefersReducedMotion } from '../lib/motion.jsx';
 import { IMAGES } from "../data/images.js";
 import { PROJECTS } from '../components/projects.js';
 import { EXPERIENCE } from '../data/Services.jsx';

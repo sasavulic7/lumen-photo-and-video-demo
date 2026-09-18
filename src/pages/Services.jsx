@@ -1,5 +1,5 @@
 import { Check, ArrowRight } from 'lucide-react';
-import { Img, Reveal, RevealLine } from '../lib/Motion.jsx';
+import { Img, Reveal, RevealLine } from '../lib/motion.jsx';
 import { SERVICES } from '../data/Services.jsx';
 import { navigate } from '../lib/router.jsx';
 import { Closing } from './Home.jsx';

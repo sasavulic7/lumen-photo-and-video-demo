@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { X, ArrowRight } from 'lucide-react';
-import { Img } from '../lib/Motion.jsx';
+import { Img } from '../lib/motion.jsx';
 import { PROJECTS } from '../components/projects.js';
 import { navigate } from '../lib/router.jsx';
 
